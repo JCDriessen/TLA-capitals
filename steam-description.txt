@@ -1,0 +1,32 @@
+What this mod does:
+1. All major and minor settlements start at max tier.
+2. They always remain at max tier after occupation, same for occupy ruin.
+3. Ogre camp, Black Ark, Chaos Horde now cost 0 food, 0 resource, and 1 turn to level up the main chain.
+4. MCT support to customize settlement levels.
+
+
+Compatibility
+This simple mod should be compatible with everything, no matter it is tier-4 minor settlements, more slots, or whatever. Safe to add or remove mid-campaign. Shall always work regardless of game update.
+
+Some mods, such as sigmar's heir and mixu minor factions, set certain settlements at lower level in their scripts. Raze and re-occupy will set them to max level.
+
+
+MCT (Mod Configuration Tool) customizations
+- Enable or disable the mod.
+- Change starting major settlement level (1-5).
+- Choose if minor settlements need to be effective, if so you can set them to any level (1-3).
+- Choose if after occupation the settlement level wil return to the set level.
+
+
+Campaign Balance
+Campaign will have less micro-manage and more intense from early on.
+
+It is easier on low difficulty level, but more difficulty on very hard or legendary because AI will build tier-3 units early on. Certain factions will quickly snowball to very powerful by turn 50 (especially if you use dynamic AI or stronger AI)
+
+
+Misc:
+In case you would like to leave me a Tip[www.paypal.com] for this work.
+
+
+Credits
+Big thanks to DrunkFlamingo's Tier-4 Starting. His script provides a solid foundation to work on.
